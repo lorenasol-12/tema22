@@ -46,7 +46,7 @@ header{
 
 .produc{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 .art{
     background-color: darkseagreen;
@@ -87,11 +87,8 @@ header{
     display: inline-block;
     padding: 70px;
 }
- .h6{
-    background-color: black;
-    text-align: center;
-    color: aliceblue;
- }
+
+
 
  .img{
     display: inline-block;
@@ -103,3 +100,21 @@ header{
     text-align: center;
    margin-top: 10px;
  }
+
+.nombre{
+    text-align: center;
+}
+
+.section, .h3, .h5{
+    text-align: center;
+   margin: 100px 50px; 
+}
+
+.h6{
+    text-align: center;
+    min-height: 20px;
+    background-color: darkslategrey;
+}
+.sec{
+    margin: 20px;
+}
